@@ -14,11 +14,10 @@ In addition to Matplotlib, I added a few touches to my charts in Photoshop to ma
 a few of these details may have been added with Matplotlib but I have felt that the PS had given me more tools to achieve the results I was after. 
 
 <strong>GOVERNMENT SUBSIDIES</strong><br>
-<br>
 
 Lots of interesting findings in this section that contains 6 charts dissecting New Zealand government subsidies to the major industries. Healthcare subsidies are dominating but declined in the last few years, while construction and retail subsidies have skyrocketed. Construction subsidies have grown 854 times in nine years that this data covers. Retail have managed a whopping 229 times increase and cracked the top 5 recipients of the subsidies. 
 
-<strong>HOW TO NAVIGATE THIS REPO?<strong>
+<strong>HOW TO NAVIGATE THIS REPO?</strong>
 In short, there are a lot of packages, modules, and imports<br>
 <br>
 There's a main data package named 'gov_data' and all other packages import from module 'data.py' that is inside of that package.<br>
