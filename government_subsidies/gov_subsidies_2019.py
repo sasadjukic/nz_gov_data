@@ -1,6 +1,5 @@
 
 import sys 
-from pathlib import Path
 import pandas as pd 
 
 abs_path = r'C:\Users\sasad\Desktop\github\nz_gov_data\gov_data'
