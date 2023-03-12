@@ -17,7 +17,8 @@ a few of these details may have been added with Matplotlib but I have felt that 
 
 Lots of interesting findings in this section that contains 6 charts dissecting New Zealand government subsidies to the major industries. Healthcare subsidies are dominating but declined in the last few years, while construction and retail subsidies have skyrocketed. Construction subsidies have grown 854 times in nine years that this data covers. Retail have managed a whopping 229 times increase and cracked the top 5 recipients of the subsidies. 
 
-<strong>HOW TO NAVIGATE THIS REPO?</strong>
+<strong>HOW TO NAVIGATE THIS REPO?</strong><br>
+
 In short, there are a lot of packages, modules, and imports<br>
 <br>
 There's a main data package named 'gov_data' and all other packages import from module 'data.py' that is inside of that package.<br>
@@ -31,5 +32,7 @@ All charts are in the assets folder. Screenshots will show only some.
 <strong>SCREENSHOTS</strong>
 <img src="./assets/gov_subsidies_charts/healthcare_share_of_subsidies_2013_2021.png" />
 <img src="./assets/gov_subsidies_charts/healthcare_share_by_year.png" />
+<img src="./assets/gov_subsidies_charts/highest_increase_in_subsidies_by_industry.png" />
+<img src="./assets/gov_subsidies_charts/bottom_nz_gov_subsidies_2013_2021.png" />
 
 
