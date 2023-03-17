@@ -29,7 +29,7 @@ def display_highest_income(h_income: pd.Series) -> None:
     ax.spines['left'].set_color('lightgrey')
 
     plt.suptitle(
-        'HIGHEST TOTAL INCOME BY INDUSTRY 2013-2021',
+        'HIGHEST TOTAL INCOME PER INDUSTRY 2013-2021',
         fontfamily = 'Bahnschrift',
         fontsize = 18,
         color = grey
