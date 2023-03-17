@@ -51,7 +51,7 @@ def display_healthcare_share_by_years() -> None:
     ax.spines['left'].set_color('lightgrey')
 
     plt.suptitle(
-        'NEW ZEALAND HEALTHCARE SUBSIDIES SHARE BY YEAR 2013-2021',
+        'NEW ZEALAND HEALTHCARE SUBSIDIES SHARE PER YEAR 2013-2021',
         fontfamily = 'Bahnschrift',
         fontsize = 18,
         color = 'lightgrey'
