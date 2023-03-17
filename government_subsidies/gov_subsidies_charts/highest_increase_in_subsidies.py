@@ -39,7 +39,7 @@ def display_construction_subsidies() -> None:
     ax.spines['left'].set_color('lightgrey')
 
     plt.suptitle(
-        'HIGHEST INCREASE IN NEW ZEALAND GOVERNMENT SUBSIDIES BY INDUSTRY 2013-2021',
+        'HIGHEST INCREASE IN NEW ZEALAND GOVERNMENT SUBSIDIES PER INDUSTRY 2013-2021',
         fontfamily = 'Bahnschrift',
         fontsize = 18,
         color = 'lightgrey'
