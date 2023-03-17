@@ -34,7 +34,7 @@ def display_construction_income(c_income: list[tuple]) -> None:
     ax.spines['bottom'].set_color('lightgrey')
 
     plt.suptitle(
-        'CONSTRUCTION INCOME BY YEAR 2013-2021',
+        'CONSTRUCTION INCOME PER YEAR 2013-2021',
         fontfamily = 'Bahnschrift',
         fontsize = 18,
         color = grey
