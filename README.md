@@ -1,6 +1,4 @@
 
-*THIS REPO WILL RECEIVE FURTHER UPDATES!
-
 <strong>ABOUT</strong><br>
 <br>
 
@@ -31,12 +29,17 @@ Included is a sample unittest module that test for functions in gov_subsidies_20
 
 Construction and Rental/Real Estate recorded highest growth in income over this nine year period, and that growth is recorded in separate charts. In addition, this section features industries that recorded highest total income as well as highest average income per employee. IMO, there aren't many surprises there as well as in industries that recorded the lowest average income per employee. To sum it up; work in finances not in arts.
 
+<strong>EXPENDITURES, SALARIES AND TAXES</strong><br>
+
+I put these three together and the usual suspects - Construction pops up in two of the three categories. Both Construction expenditures and salaries have doubled from 2013 to 2021. That kind of increase is unmatched by any of the other major industries in New Zealand. When it comes to indirect taxes, Manufacturing have paid more indirect taxes than all the industries combined in the nine year period from 2013-2021. Manufacturing share of total indirect taxes paid clocks in slightly above 51 percent. In the same period Rental, Hiring and Real Estate Services indirect taxes increased for more than 61 percent, the highest among all major industries.    
+
 <strong>NOTES</strong><br>
 <br>
 All charts are in the assets folder
 
 <strong>SCREENSHOTS</strong>
 <img src="./assets/gov_subsidies_charts/healthcare_share_of_subsidies_2013_2021.png" />
+<img src="./assets/expenditures_salaries_taxes_charts/industries_total_salaries_2013_2021_comparison.png" />
 <img src="./assets/income_charts/construction_income_by_year.png" />
 
 
