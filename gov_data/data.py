@@ -22,9 +22,12 @@ nz_data.rename(columns = {
 }, inplace=True)
 
 # fix 'value' column and turn values into integers
-nz_data['value'] = nz_data['value'].str.replace(r'C', '0', regex=True)
-nz_data['value'] = nz_data['value'].str.replace(r'S', '0', regex=True)
-nz_data['value'] = nz_data['value'].str.replace(r',', '', regex=True).astype('int64')
+nz_data['value'] = nz_data['value'].str.replace(r'C', '0')
+nz_data['value'] = nz_data['value'].str.replace(r'S', '0')
+nz_data['value'] = nz_data['value'].str.replace(r',', '').astype('int64')
+nz_data['industry_name'] = nz_data['industry_name'].str.replace(
+                                                                r'Public order, safety and regulatory services',
+                                                                 'Public Order, Safety and Regulatory Services')
 
 
 def export_clean_data() -> pd.DataFrame:
