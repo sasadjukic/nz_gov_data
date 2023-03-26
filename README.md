@@ -2,14 +2,13 @@
 <strong>ABOUT</strong><br>
 <br>
 
-Analyzing New Zealand government data with Python, Pandas and MatplotLib. The data covers a nine year period from 2013-2021. At the moment, analysis includes government subsidies but will grow as time goes by. The code is divided into packages to make navigation easier. 
+Analyzing New Zealand government data with Python, Pandas and MatplotLib. The data covers a nine year period from 2013-2021 and the code is divided into packages to make navigation easier. 
 
 The data sheet picked up from https://www.data.govt.nz/
 
-Due to the size of this project, the analysis covers trends in major industries. This means I did not explore trends of rental, hiring and real estate separately but as part of what NZ government labeled as 'Rental, Hiring and Real Estate Services' (a major industry branch). To be fair to this datasheet, you can do that if you want to focus on something in particular.
+Due to the size of this project, the analysis covers trends in major industries. This means I did not explore trends of rental, hiring and real estate separately but as part of what NZ government labeled as 'Rental, Hiring and Real Estate Services' (a major industry branch). To be fair to this datasheet, you can go to the specifics if you wish to do so.
 
-In addition to Matplotlib, I added a few touches to my charts in Photoshop to make them more interesting. Granted,
-a few of these details may have been added with Matplotlib but I have felt that the PS had given me more tools to achieve the results I was after. 
+In addition to Matplotlib, I added a few touches to my charts in Photoshop to make them more interesting. Granted, a few of these details may have been added with Matplotlib but I have felt that the PS had given me more tools to achieve the results I was after. 
 
 <strong>HOW TO NAVIGATE THIS REPO?</strong><br>
 
