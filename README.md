@@ -20,6 +20,7 @@ There's a main data package named 'gov_data' and all other packages import from 
 The other major packages are named after the subject they explore (for ex. 'government_subsidies', 'income') and contain modules that deal with and make charts only for that type of data. Inside of the major packages there's the chart subpackage that imports from main modules to create charts.
 
 <strong>TESTS</strong><br>
+
 In government subsidies package you'll find a sample unittest module that tests for functions in gov_subsidies_2013_2021.py. Similar functions can be found across this project so I didn't post tests for them. 
 
 <strong>GOVERNMENT SUBSIDIES</strong><br>
